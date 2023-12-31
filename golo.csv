@@ -1,7 +1,5 @@
-p_year,name,coordinates,address,desc
-2015,The Hotel Chelsea,"40.744836, -73.996822",West 23rd Street & 7.5th Ave,Jackson Elias was slain here in room 410
-2015,Prospero House,"40.747151, -73.979018",Lexington Ave & 35th Street,Man with the bulbous frame
-2015,New York Times,"40.757645, -73.987413",229 West 43rd Street,Rebecca Shosenberg's Office
-2015,Carlton's Office,"40.807142, -73.946050",124th Street and Lenox,"Unlimited funds, no oversight"
-2015,Emerson Imports,"40.764639, -73.998006",648 West 47th Street,idr
-2015,Lafayette Theater,"40.813380, -73.944936",132nd Street & 7th Ave,Mille Adams meetpoint
+p_year,name,coordinates,latitude,longitude,address,desc
+2015,Mee Noodle Shop,"40.765388, -73.987907",40.765388,-73.987907,West 23rd Street & 7.5th Ave,Lamb Special
+2015,Lido,"40.804901, -73.954712",40.804901,-73.954712,Lexington Ave & 35th Street,"Good pasta, chill vibes"
+2015,99 Cent Fresh Pizza,"40.764591, -73.982338",40.764591,-73.982338,1723 Broadway,Top tier
+2015,BCD Tofu House,"40.747559, -73.986000",40.747559,-73.986,32nd Street and 5th Avenue,Fried Fish !
